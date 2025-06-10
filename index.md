@@ -49,4 +49,4 @@ Familiarity with collaboration tools
 LANGUAGE LEVEL
 Haitian Creole: Native proficiency  
 English: Intermediate 
-French: Advanced (professional proficiency) 
+French: Advanced (professional proficiency)
