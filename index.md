@@ -2,122 +2,51 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+SAINTIGNY YESSICA 
+Administrator, Assistant Archivist 
+Address: #5, Rue 29 B prolongée, Habitation Jouissant,
+Cap-Haitien, Haïti,
+Tel: +509 4311-3222
+Email: yessicasaintigny@citadellearchive.com 
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+PROFIL :
+Experienced in office administration and archiving roles, with a strong focus on the digital transformation of historical documents. Skilled in digitization, metadata organization, and indexing, with a keen interest in digital publishing and content management. Demonstrates strong organizational abilities, attention to detail, and a commitment to preserving cultural heritage through modern technologies.  
 
 
-### Definition lists can be used with HTML syntax.
+EDUCATION 
+2018-2022 - North Haitian Christian University
+Bachelor’s Degree in Business Administration
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Dec-May 2017 - Ecole Nationale d'Etudes Supérieures( ENES)
+Certificate in Administration NGOs
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+2022-2023 - Breda English School And Training
+Certificate in Leadership and Communication
 
-```
-The final element.
-```
+EXPERIENCES
+September 2022- Present - Institut De Sauvegarde  Du Patrimoine National 
+Administrator; Assistant Archivist
+Converted historical collections, including drawings, prints, negatives, and slides, into digital formats to improve accessibility and ensure long-term preservation.
+Supported metadata creation to improve archival searchability and accessibility.  
+ Performed daily archival tasks such as digitization, filing, and indexing.  
+ Ensured proper expense tracking for operational activities.  
+
+2021-2022 - AYITI NEXUS 
+Office Administration Intern 
+Assisted with administrative tasks and supported daily operations.  
+ Managed documents, ensuring proper organization and accessibility.  
+ Provided team support and enhanced communication efficiency.  
+ Proficiently utilized office tools such as Word and Excel.  
+ Developed key skills in organization, time management, and attention to detail.  
+
+PROFESSIONAL SKILLS
+ Digital archiving and electronic records management  
+ Preservation and conservation techniques  
+ Metadata organization and indexing  
+ Proficiency in office tools  
+ Time management and multitasking  
+Familiarity with collaboration tools  
+LANGUAGE LEVEL
+Haitian Creole: Native proficiency  
+English: Intermediate 
+French: Advanced (professional proficiency) 
